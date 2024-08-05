@@ -1,4 +1,3 @@
 class AppConfig {
-  static String get googlePlacesApiKey =>
-      'AIzaSyBApSYTJvZfAZZgr-EO5sZ5s-3S68nmuHo';
+  static String get googlePlacesApiKey => 'google_places_api_key';
 }
