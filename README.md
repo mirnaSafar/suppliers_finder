@@ -1,17 +1,22 @@
 # suppliers_products_finder_app
 
-A new Flutter project.
+### Setup
 
-## Getting Started
+1. *Clone the Repository:*
+   
+bash
+   git clone [github-repo-url]
+   
 
-This project is a starting point for a Flutter application.
+2. *Install Dependencies:*
+   
+bash 
+   flutter pub get
+   
+### Running the App
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# suppliers_finder
+1. *Connect your Emulator or Device:* 
+2. *Run the App:*
+3. 
+bash
+   flutter run
